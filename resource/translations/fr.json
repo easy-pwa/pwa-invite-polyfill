@@ -1,0 +1,20 @@
+{
+  "invite": "Ajouter %name% à l'écran d'accueil",
+  "helper": {
+    "introduction": "Pour installer cette application et profiter d'une expérience améliorée",
+    "ios": {
+      "label": "Ajout en &eacute;cran d'accueil"
+    },
+    "firefox": {
+      "label": "Installer"
+    },
+    "samsung": {
+      "label_1": "Ajouter la page à",
+      "label_2": "Ecran d'accueil"
+    }
+  },
+  "press_on": "presser sur",
+  "then": "puis",
+  "and_then": "et ensuite",
+  "select": "s&eacute;lectionner"
+}

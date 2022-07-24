@@ -1,0 +1,24 @@
+main {
+    max-width: 1000px;
+    margin: auto;
+    border: 3px solid black;
+    padding: 20px;
+}
+
+h1 {
+    margin-top: 5px;
+}
+
+section {
+    margin: 25px 0;
+}
+
+.text-offline {
+    display: none;
+}
+
+.offline .text-offline {
+    display: block;
+    font-size: 30px;
+    color: red;
+}

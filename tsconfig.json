@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "strict": true,
+    "declaration": true,
+    "declarationDir": "./dist/types",
+    "experimentalDecorators": true,
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "esnext",
+    "lib": [
+      "dom"
+    ]
+  },
+  "include": ["./**/*.ts"]
+}
